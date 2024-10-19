@@ -1,13 +1,13 @@
 SwipeMenuListView
 =================
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SwipeMenuListView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/912)
-[ ![Download](https://api.bintray.com/packages/baoyongzhang/maven/SwipeMenuListView/images/download.svg) ](https://bintray.com/baoyongzhang/maven/SwipeMenuListView/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/sassnet/maven/SwipeMenuListView/images/download.svg) ](https://bintray.com/sassnet/maven/SwipeMenuListView/_latestVersion)
 
 A swipe menu for ListView.
 
 # Demo
 <p>
-   <img src="https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo.gif" width="320" alt="Screenshot"/>
+   <img src="https://raw.githubusercontent.com/sassnet/SwipeMenuListView/master/demo.gif" width="320" alt="Screenshot"/>
 </p>
 
 # Usage
@@ -16,7 +16,7 @@ A swipe menu for ListView.
 
 ```groovy
 dependencies {
-    compile 'com.baoyz.swipemenulistview:library:1.3.0'
+    compile 'com.sassnet.swipemenulistview:library:1.3.0'
 }
 ```
 
@@ -159,7 +159,7 @@ listView.setOnMenuItemClickListener(new OnMenuItemClickListener() {
 
 <p>
 
-<img src="https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo3.gif" width="320" alt="Screenshot"/>
+<img src="https://raw.githubusercontent.com/sassnet/SwipeMenuListView/master/demo3.gif" width="320" alt="Screenshot"/>
 </p>
 
 ### Other
