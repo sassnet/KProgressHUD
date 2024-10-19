@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.baoyz.swipemenulistview.demo"
+        applicationId "com.sassnet.swipemenulistview.demo"
         minSdkVersion 8
         targetSdkVersion 22
         versionCode 1
